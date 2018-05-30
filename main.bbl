@@ -1,0 +1,228 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{AIMD}
+\bibauthor{ANON}\@. \bibbooktitle{Artificial Intelligence: A Modern
+  Approach}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Prentice Hall}\@, \bibyear{2012}\@.
+
+\bibitem{50_years_ai}
+\bibauthor{LUNGARELLA M}\@. \bibbooktitle{LNCS sublibrary: Artificial
+  intelligence\thinspace{}\textnormal{: }50 Years of Artificial Intelligence:
+  Essays Dedicated to the 50th Anniversary of Artificial
+  Intelligence}\bibmark{[M/OL]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Springer}\@, \bibyear{2007}\@.
+  \newline\url{https://books.google.com.hk/books?id=vin0j1Z4fZUC}\@.
+
+\bibitem{manning2008introduction}
+\bibauthor{MANNING C\@, RAGHAVAN P\@, SCH{\"U}TZE H}\@.
+  \bibbooktitle{Introduction to Information Retrieval}\bibmark{[M/OL]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Cambridge
+  University Press}\@, \bibyear{2008}\@.
+  \newline\url{https://books.google.com.hk/books?id=t1PoSh4uwVcC}\@.
+
+\bibitem{abelson1985structure}
+\bibauthor{ABELSON H\@, SUSSMAN G\@, SUSSMAN J}\@. \bibbooktitle{MIT electrical
+  engineering and computer science series\thinspace{}\textnormal{: }Structure
+  and interpretation of computer programs}\bibmark{[M/OL]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{MIT Press}\@,
+  \bibyear{1985}\@.
+  \newline\url{https://books.google.com.hk/books?id=2o9QAAAAMAAJ}\@.
+
+\bibitem{DBLP:journals/corr/abs-1301-3781}
+\bibauthor{MIKOLOV T\@, CHEN K\@, CORRADO G, et~al}\@. \bibtitle{Efficient
+  Estimation of Word Representations in Vector Space}\bibmark{[J/OL]}\@.
+  \bibjournal{CoRR}\@, \bibyear{2013}\@, \bibvolume{abs/1301.3781}\@.
+  \newline\url{http://arxiv.org/abs/1301.3781}\@.
+
+\bibitem{mq-zhanjian}
+\bibauthor{詹建\@, 高民权}\@.
+  \bibtitle{基于主题河的网络舆情可视化关联分析方法}\bibmark{[J]}\@.
+  \bibjournal{情报资料工作}\@, \bibyear{2014}\@,
+  \bibvolume{6}\thinspace{}\textnormal{:
+  }\bibpages{17\thinspace{}\textnormal{--}\thinspace{}22}\@.
+
+\bibitem{adomavicius2005toward}
+\bibauthor{ADOMAVICIUS G\@, TUZHILIN A}\@. \bibtitle{Toward the next generation
+  of recommender systems: A survey of the state-of-the-art and possible
+  extensions}\bibmark{[J]}\@. \bibjournal{IEEE transactions on knowledge and
+  data engineering}\@, \bibyear{2005}\@,
+  \bibvolume{17}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{734\thinspace{}\textnormal{--}\thinspace{}749}\@.
+
+\bibitem{gil2010state}
+\bibauthor{GIL A\@, MEDRANO M\@, MARTORELL I, et~al}\@. \bibtitle{State of the
+  art on high temperature thermal energy storage for power generation. Part
+  1—Concepts, materials and modellization}\bibmark{[J]}\@.
+  \bibjournal{Renewable and Sustainable Energy Reviews}\@, \bibyear{2010}\@,
+  \bibvolume{14}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{31\thinspace{}\textnormal{--}\thinspace{}55}\@.
+
+\bibitem{radford2015unsupervised}
+\bibauthor{RADFORD A\@, METZ L\@, CHINTALA S}\@. \bibtitle{Unsupervised
+  representation learning with deep convolutional generative adversarial
+  networks}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1511.06434}\@,
+  \bibyear{2015}\@.
+
+\bibitem{goodfellow2014generative}
+\bibauthor{GOODFELLOW I\@, POUGET-ABADIE J\@, MIRZA M, et~al}\@.
+  \bibtitle{Generative adversarial nets}\bibmark{[J]}\@,
+  \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{2672\thinspace{}\textnormal{--}\thinspace{}2680}\@.
+
+\bibitem{mcaleergenerative}
+\bibauthor{MCALEER S}\@. \bibtitle{Generative Adversarial
+  Networks}\bibmark{[J]}\@, \@.
+
+\bibitem{pix2pix2016}
+\bibauthor{ISOLA P\@, ZHU J-Y\@, ZHOU T, et~al}\@. \bibtitle{Image-to-Image
+  Translation with Conditional Adversarial Networks}\bibmark{[J]}\@.
+  \bibjournal{arxiv}\@, \bibyear{2016}\@.
+
+\bibitem{chen2015improved}
+\bibauthor{CHEN S\@, ZHANG T}\@. \bibtitle{An improved cloud masking algorithm
+  for MODIS ocean colour data processing}\bibmark{[J]}\@. \bibjournal{Remote
+  Sensing Letters}\@, \bibyear{2015}\@,
+  \bibvolume{6}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{218\thinspace{}\textnormal{--}\thinspace{}227}\@.
+
+\bibitem{O'Donovan:2011:CCL:2010324.1964958}
+\bibauthor{O'DONOVAN P\@, AGARWALA A\@, HERTZMANN A}\@. \bibtitle{Color
+  Compatibility from Large Datasets}\bibmark{[J/OL]}\@. \bibjournal{ACM Trans.
+  Graph.}\@, \bibyear{2011}\@,
+  \bibvolume{30}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{63:1\thinspace{}\textnormal{--}\thinspace{}63:12}\@.
+  \newline\url{http://doi.acm.org/10.1145/2010324.1964958}\@.
+
+\bibitem{deng2010binary}
+\bibauthor{DENG L\@, SELTZER M~L\@, YU D, et~al}\@. \bibtitle{Binary coding of
+  speech spectrograms using a deep auto-encoder}\bibmark{[J]}\@,
+  \bibyear{2010}\@.
+
+\bibitem{Qu:2006:MC:1141911.1142017}
+\bibauthor{QU Y\@, WONG T-T\@, HENG P-A}\@. \bibtitle{Manga
+  Colorization}\bibmark{[J/OL]}\@. \bibjournal{ACM Trans. Graph.}\@,
+  \bibyear{2006}\@, \bibvolume{25}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{1214\thinspace{}\textnormal{--}\thinspace{}1220}\@.
+  \newline\url{http://doi.acm.org/10.1145/1141911.1142017}\@.
+
+\bibitem{DBLP:journals/corr/ZhangJL17}
+\bibauthor{ZHANG L\@, JI Y\@, LIN X}\@. \bibtitle{Style Transfer for Anime
+  Sketches with Enhanced Residual U-net and Auxiliary Classifier
+  {GAN}}\bibmark{[J/OL]}\@. \bibjournal{CoRR}\@, \bibyear{2017}\@,
+  \bibvolume{abs/1706.03319}\@.
+  \newline\url{http://arxiv.org/abs/1706.03319}\@.
+
+\bibitem{embedding}
+\bibauthor{WIKIPEDIA}\@. \bibtitle{Embedding}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \newline\url{https://www.wikiwand.com/en/Embedding}\@.
+
+\bibitem{DBLP:journals/corr/abs-1708-00107}
+\bibauthor{MCCANN B\@, BRADBURY J\@, XIONG C, et~al}\@. \bibtitle{Learned in
+  Translation: Contextualized Word Vectors}\bibmark{[J/OL]}\@.
+  \bibjournal{CoRR}\@, \bibyear{2017}\@, \bibvolume{abs/1708.00107}\@.
+  \newline\url{http://arxiv.org/abs/1708.00107}\@.
+
+\bibitem{athier1997process}
+\bibauthor{ATHIER G\@, FLOQUET P\@, PIBOULEAU L, et~al}\@. \bibtitle{Process
+  optimization by simulated annealing and NLP procedures. Application to heat
+  exchanger network synthesis}\bibmark{[J]}\@. \bibjournal{Computers \&
+  chemical engineering}\@, \bibyear{1997}\@,
+  \bibvolume{21}\thinspace{}\textnormal{:
+  }\bibpages{S475\thinspace{}\textnormal{--}\thinspace{}S480}\@.
+
+\bibitem{xia2011improvement}
+\bibauthor{XIA T\@, CHAI Y}\@. \bibtitle{An improvement to TF-IDF: Term
+  Distribution based Term Weight Algorithm.}\bibmark{[J]}\@.
+  \bibjournal{JSW}\@, \bibyear{2011}\@,
+  \bibvolume{6}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{413\thinspace{}\textnormal{--}\thinspace{}420}\@.
+
+\bibitem{baroni2014don}
+\bibauthor{BARONI M\@, DINU G\@, KRUSZEWSKI G}\@. \bibtitle{Don't count,
+  predict! A systematic comparison of context-counting vs. context-predicting
+  semantic vectors}\bibmark{[J]}\@, \bibyear{2014}\@,
+  \bibvolume{1}\thinspace{}\textnormal{:
+  }\bibpages{238\thinspace{}\textnormal{--}\thinspace{}247}\@.
+
+\bibitem{Mikolov:2013:DRW:2999792.2999959}
+\bibauthor{MIKOLOV T\@, SUTSKEVER I\@, CHEN K, et~al}\@. \bibtitle{Distributed
+  Representations of Words and Phrases and Their
+  Compositionality}\bibmark{[C/OL]}
+  //\thinspace{}\bibbooktitle{NIPS'13\thinspace{}\textnormal{: }Proceedings of
+  the 26th International Conference on Neural Information Processing Systems -
+  Volume 2}\@. \bibaddress{USA}\thinspace{}\textnormal{: }\bibpublisher{Curran
+  Associates Inc.}\@, \bibyear{2013}\thinspace{}\textnormal{:
+  }\bibpages{3111\thinspace{}\textnormal{--}\thinspace{}3119}\@.
+  \newline\url{http://dl.acm.org/citation.cfm?id=2999792.2999959}\@.
+
+\bibitem{DBLP:journals/corr/abs-1801-09797}
+\bibauthor{KAISER L\@, BENGIO S}\@. \bibtitle{Discrete Autoencoders for
+  Sequence Models}\bibmark{[J/OL]}\@. \bibjournal{CoRR}\@, \bibyear{2018}\@,
+  \bibvolume{abs/1801.09797}\@.
+  \newline\url{http://arxiv.org/abs/1801.09797}\@.
+
+\bibitem{mikolov2013distributed}
+\bibauthor{MIKOLOV T\@, SUTSKEVER I\@, CHEN K, et~al}\@. \bibtitle{Distributed
+  representations of words and phrases and their compositionality}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Advances in neural information processing
+  systems}\@. \bibyear{2013}\thinspace{}\textnormal{:
+  }\bibpages{3111\thinspace{}\textnormal{--}\thinspace{}3119}\@.
+
+\bibitem{DBLP:journals/corr/abs-1801-10198}
+\bibauthor{LIU P~J\@, SALEH M\@, POT E, et~al}\@. \bibtitle{Generating
+  Wikipedia by Summarizing Long Sequences}\bibmark{[J/OL]}\@.
+  \bibjournal{CoRR}\@, \bibyear{2018}\@, \bibvolume{abs/1801.10198}\@.
+  \newline\url{http://arxiv.org/abs/1801.10198}\@.
+
+\bibitem{zhang2009vector}
+\bibauthor{ZHANG Y\@, LIU Y-D\@, JI Z, et~al}\@. \bibtitle{Vector similarity
+  measurement method}\bibmark{[J]}\@. \bibjournal{Technical Acoustics}\@,
+  \bibyear{2009}\@, \bibvolume{4}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{532\thinspace{}\textnormal{--}\thinspace{}536}\@.
+
+\bibitem{DBLP:journals/corr/abs-1802-09914}
+\bibauthor{ANDRECUT M}\@. \bibtitle{High-Dimensional Vector
+  Semantics}\bibmark{[J/OL]}\@. \bibjournal{CoRR}\@, \bibyear{2018}\@,
+  \bibvolume{abs/1802.09914}\@.
+  \newline\url{http://arxiv.org/abs/1802.09914}\@.
+
+\bibitem{ravichandran2005randomized}
+\bibauthor{RAVICHANDRAN D\@, PANTEL P\@, HOVY E}\@. \bibtitle{Randomized
+  algorithms and nlp: using locality sensitive hash function for high speed
+  noun clustering}\bibmark{[J]}\@, \bibyear{2005}\thinspace{}\textnormal{:
+  }\bibpages{622\thinspace{}\textnormal{--}\thinspace{}629}\@.
+
+\bibitem{colormodel}
+\bibauthor{WIKIPEDIA}\@. \bibtitle{colormodel}\bibmark{[EB/OL]}\@.
+  \bibyear{2007}\@.
+  \newline\url{https://en.wikipedia.org/wiki/Color_model#cite_ref-Kandel_1-0}\@.
+
+\bibitem{floodfill}
+\bibauthor{WIKIPEDIA}\@. \bibtitle{Floodfill}\bibmark{[EB/OL]}\@.
+  \bibyear{2009}\@. \newline\url{https://en.wikipedia.org/wiki/Flood_fill}\@.
+
+\end{thebibliography}
