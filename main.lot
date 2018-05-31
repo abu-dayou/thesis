@@ -6,13 +6,18 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces one-hot向量\relax }}{8}{table.caption.12}
+\contentsline {table}{\numberline {2.2}{\ignorespaces 词频向量\relax }}{8}{table.caption.13}
+\contentsline {table}{\numberline {2.3}{\ignorespaces tfidf向量\relax }}{9}{table.caption.15}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces one-hot向量\relax }}{19}{table.caption.30}
-\contentsline {table}{\numberline {3.2}{\ignorespaces 词频向量\relax }}{19}{table.caption.31}
-\contentsline {table}{\numberline {3.3}{\ignorespaces tfidf向量\relax }}{20}{table.caption.32}
-\contentsline {table}{\numberline {3.4}{\ignorespaces 上下文向量\relax }}{21}{table.caption.33}
-\contentsline {table}{\numberline {3.5}{\ignorespaces 输入\relax }}{21}{table.caption.34}
-\contentsline {table}{\numberline {3.6}{\ignorespaces 输出\relax }}{21}{table.caption.35}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces one-hot向量\relax }}{33}{table.caption.45}
+\contentsline {table}{\numberline {5.2}{\ignorespaces 词频向量\relax }}{33}{table.caption.46}
+\contentsline {table}{\numberline {5.3}{\ignorespaces tfidf向量\relax }}{34}{table.caption.47}
+\contentsline {table}{\numberline {5.4}{\ignorespaces 上下文向量\relax }}{35}{table.caption.48}
+\contentsline {table}{\numberline {5.5}{\ignorespaces 输入\relax }}{35}{table.caption.49}
+\contentsline {table}{\numberline {5.6}{\ignorespaces 输出\relax }}{35}{table.caption.50}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

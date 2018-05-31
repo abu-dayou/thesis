@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.11.25)  29 MAY 2018 15:26
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.4.4)  31 MAY 2018 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1619,11 +1619,6 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 LaTeX Info: Redefining \rmfamily on input line 260.
 \g__fontspec_family_TeXGyreHeros_int=\count271
 .................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "TeX Gyre Heros/B" (it probably doesn't exist).
-.................................................
-.................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'TeXGyreHeros(0)' created for font 'TeX Gyre Heros' with options
@@ -1635,6 +1630,10 @@ LaTeX Info: Redefining \rmfamily on input line 260.
 . Heros/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
 . Heros/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->"TeX Gyre
+. Heros/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"TeX Gyre
+. Heros/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 . - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
 . Heros/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: <->"TeX Gyre
@@ -1738,17 +1737,95 @@ Package hyperref Info: Option `unicode' set `true' on input line 5.
 Package hyperref Info: Option `CJKbookmarks' set `true' on input line 5.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 5.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 5.
- (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 540 replaced by U+FFFD.
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count274
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Invalid UTF-8 byte or sequence at line 1311 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1313 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1315 replaced by U+FFFD.
+\algocf@hangindent=\skip83
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.1 -- october 19 2015 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
+********************************************************
+\skiptotal=\skip84
+\skiplinenumber=\skip85
+\skiprule=\skip86
+\skiphlne=\skip87
+\skiptext=\skip88
+\skiplength=\skip89
+\algomargin=\skip90
+\skipalgocfslide=\skip91
+\algowidth=\dimen283
+\inoutsize=\dimen284
+\inoutindent=\dimen285
+\interspacetitleruled=\dimen286
+\interspacealgoruled=\dimen287
+\interspacetitleboxruled=\dimen288
+\algocf@ruledwidth=\skip92
+\algocf@inoutbox=\box68
+\algocf@inputbox=\box69
+\AlCapSkip=\skip93
+\AlCapHSkip=\skip94
+\algoskipindent=\skip95
+\algocf@nlbox=\box70
+\algocf@hangingbox=\box71
+\algocf@untilbox=\box72
+\algocf@skipuntil=\skip96
+\algocf@capbox=\box73
+\algoheightruledefault=\skip97
+\algoheightrule=\skip98
+\algotitleheightruledefault=\skip99
+\algotitleheightrule=\skip100
+\c@algocfline=\count275
+\c@algocfproc=\count276
+\c@algocf=\count277
+\algocf@algoframe=\box74
+\algocf@algobox=\box75
+) (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
 Package: xeCJK-listings 2017/05/15 v3.4.8 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count274
-\l__xeCJK_listings_flag_int=\count275
+\l__xeCJK_listings_max_char_int=\count278
+\l__xeCJK_listings_flag_int=\count279
 )
 (./main.aux (./data/abstract-zh.aux) (./data/abstract-en.aux)
-(./contents/denotation.aux) (./data/chapter-1.aux) (./data/chapter-2.aux
+(./contents/denotation.aux) (./data/chapter-1.aux) (./data/chapter-1-1.aux
+
+LaTeX Warning: Label `figure:computing-graph' multiply defined.
+
+) (./data/chapter-1-2.aux) (./data/chapter-2.aux
 
 LaTeX Warning: Label `figure:Manga Colorization' multiply defined.
 
+
+LaTeX Warning: Label `figure:数据库结构' multiply defined.
+
 ) (./data/chapter-3.aux
+
+LaTeX Warning: Label `table:one-hot' multiply defined.
+
+
+LaTeX Warning: Label `table:frequency-vec' multiply defined.
+
+
+LaTeX Warning: Label `table:tfidf-vec' multiply defined.
+
 
 LaTeX Warning: Label `figure:系统内部逻辑提取' multiply defined.
 
@@ -1762,36 +1839,36 @@ LaTeX Warning: Label `figure:儿童2' multiply defined.
 ) (./contents/thanks.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 77.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 78.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 78.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 77.
+LaTeX Info: Redefining \selectfont on input line 78.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1799,68 +1876,68 @@ LaTeX Info: Redefining \selectfont on input line 77.
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 77.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 77.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 77.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 77.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 77.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 77.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 77.
-LaTeX Font Info:    Redeclaring math accent \check on input line 77.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 77.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 77.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 77.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 78.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 78.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 78.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 78.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 78.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 78.
+LaTeX Font Info:    Redeclaring math accent \check on input line 78.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 78.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 78.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 78.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 77.
+(Font)              `operators' in the math version `normal' on input line 78.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 7
-7.
+8.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 77.
+(Font)              `operators' in the math version `bold' on input line 78.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-77.
+78.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 77.
+input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 77.
+ 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/bx/n on input line
- 77.
+ 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 7
-7.
+8.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/TeXGyreCursor(0)/m/n on input line 
-77.
+78.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/bx/n on
- input line 77.
+ input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/bx/it on input li
-ne 77.
+ne 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/TeXGyreHeros(0)/bx/n on input line
- 77.
+ 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/TeXGyreCursor(0)/bx/n on input line
- 77.
-\c@lstlisting=\count276
+ 78.
+\c@lstlisting=\count280
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: hypcap package is loaded.
@@ -1870,8 +1947,8 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box68
-Package hyperref Info: Link coloring OFF on input line 77.
+\AtBeginShipoutBox=\box76
+Package hyperref Info: Link coloring OFF on input line 78.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1879,11 +1956,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count277
+\c@section@level=\count281
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -1892,7 +1969,7 @@ LaTeX Info: Redefining \nameref on input line 77.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \Pifont with sig. 'm' on line 77.
+. Redefining command \Pifont with sig. 'm' on line 78.
 .................................................
 File: ./logo/ZJDX.pdf Graphic file (type QTm)
  <use  "./logo/ZJDX.pdf" >
@@ -1934,7 +2011,7 @@ File: ./logo/QSY.pdf Graphic file (type QTm)
 * 
 * Font 'STFangsong' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STFangsong_int=\count278
+\g__fontspec_family_STFangsong_int=\count282
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1963,16 +2040,16 @@ File: ./logo/QSY.pdf Graphic file (type QTm)
 .................................................
 
 LaTeX Font Warning: Font shape `TU/STFangsong(0)/bx/n' undefined
-(Font)              using `TU/STFangsong(0)/m/n' instead on input line 78.
+(Font)              using `TU/STFangsong(0)/m/n' instead on input line 79.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [][] |   []
  []
 
 
 LaTeX Font Warning: Font shape `TU/STSong(1)/bx/n' undefined
-(Font)              using `TU/STSong(1)/m/n' instead on input line 78.
+(Font)              using `TU/STSong(1)/m/n' instead on input line 79.
 
 [1
 
@@ -1987,7 +2064,7 @@ File: ./logo/QSY.pdf Graphic file (type QTm)
 * 
 * Font 'STKaiti' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STKaiti_int=\count279
+\g__fontspec_family_STKaiti_int=\count283
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -2016,11 +2093,11 @@ File: ./logo/QSY.pdf Graphic file (type QTm)
 .................................................
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 78.
+(Font)              size <10.95> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `TU/STKaiti(0)/bx/n' undefined
-(Font)              using `TU/STKaiti(0)/m/n' instead on input line 78.
+(Font)              using `TU/STKaiti(0)/m/n' instead on input line 79.
 
 *************************************************
 * ctex warning: "deprecated-command"
@@ -2071,18 +2148,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [4
 
 
-])
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
+ [6]
 (./main.lof
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6
+ [7
 
 
 ])
@@ -2092,7 +2172,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
+ [8]
 (./main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
@@ -2100,7 +2180,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8
+ [9
 
 
 ]
@@ -2110,7 +2190,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./contents/denotation.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9
+ [10
 
 
 ]
@@ -2143,6 +2223,104 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
+\openout2 = `data/chapter-1-1.aux'.
+
+
+(./data/chapter-1-1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6
+
+
+
+]
+Missing character: There is no ， in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+
+LaTeX Warning: Reference `eq:skip-gram-model' on page 11 undefined on input lin
+e 159.
+
+
+LaTeX Warning: Reference `img:word2vec-math' on page 11 undefined on input line
+ 172.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+File: data/chapter-1-1/word2vec-math.png Graphic file (type QTm)
+
+<use  "data/chapter-1-1/word2vec-math.png" >
+File: data/chapter-1-1/tsne.png Graphic file (type QTm)
+
+<use  "data/chapter-1-1/tsne.png" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+File: data/chapter-1/D02BCA18-F339-4988-9E23-E6C5E437BCCA.jpg Graphic file (typ
+e QTm)
+
+<use  "data/chapter-1/D02BCA18-F339-4988-9E23-E6C5E437BCCA.jpg" >
+File: data/chapter-1-1/art-description.png Graphic file (type QTm)
+
+<use  "data/chapter-1-1/art-description.png" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+File: data/chapter-1-1/computing-graph.png Graphic file (type QTm)
+
+<use  "data/chapter-1-1/computing-graph.png" >
+
+LaTeX Warning: Reference `figure:w2v-loss' on page 17 undefined on input line 3
+01.
+
+File: data/chapter-1-1/w2v-loss.png Graphic file (type QTm)
+<use  "data/chapter-1-1/w2v-loss.png" >
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 313.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+\openout2 = `data/chapter-1-2.aux'.
+
+
+(./data/chapter-1-2.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+
+
+]
 \openout2 = `data/chapter-2.aux'.
 
 
@@ -2151,14 +2329,14 @@ File: data/chapter-2/peisebiao.png Graphic file (type QTm)
  <use  "data/chapter-2/peisebiao.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6
+ [20
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
+ [21]
 File: data/chapter-2/unsupervised.png Graphic file (type QTm)
 
 <use  "data/chapter-2/unsupervised.png" >
@@ -2167,7 +2345,7 @@ File: data/chapter-2/autoencoder.png Graphic file (type QTm)
 <use  "data/chapter-2/autoencoder.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
+ [22]
 File: data/chapter-2/gene.png Graphic file (type QTm)
 
 <use  "data/chapter-2/gene.png" >
@@ -2175,7 +2353,7 @@ File: data/chapter-1/gan.jpeg Graphic file (type QTm)
  <use  "data/chapter-1/gan.jpeg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+ [23]
 
 LaTeX Warning: File `data/chapter-1/Color Compatibility.png' not found on input
  line 114.
@@ -2184,7 +2362,7 @@ File: data/chapter-1/Color Compatibility.png Graphic file (type QTm)
 <use  "data/chapter-1/Color Compatibility.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
+ [24]
 File: data/chapter-1/pix2pix.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/pix2pix.jpg" >
@@ -2192,13 +2370,13 @@ File: data/chapter-1/Manga.jpg Graphic file (type QTm)
  <use  "data/chapter-1/Manga.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
+ [25]
 File: data/chapter-2/word2vec2.png Graphic file (type QTm)
 
 <use  "data/chapter-2/word2vec2.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
+ [26]
 File: data/chapter-2/pixel_matrix.png Graphic file (type QTm)
 
 <use  "data/chapter-2/pixel_matrix.png" >
@@ -2207,17 +2385,17 @@ File: data/chapter-2/pixel_example.png Graphic file (type QTm)
 <use  "data/chapter-2/pixel_example.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
+ [27]
 File: data/chapter-1/D02BCA18-F339-4988-9E23-E6C5E437BCCA.jpg Graphic file (typ
 e QTm)
 
 <use  "data/chapter-1/D02BCA18-F339-4988-9E23-E6C5E437BCCA.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14])
+ [28])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
+ [29]
 \openout2 = `data/chapter-3.aux'.
 
 
@@ -2226,7 +2404,7 @@ File: data/chapter-1/系统内部逻辑.jpg Graphic file (type QTm)
  <use  "data/chapter-1/系统内部逻辑.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16
+ [30
 
 
 
@@ -2238,19 +2416,19 @@ File: data/chapter-1/系统内部逻辑1步.jpg Graphic file (type QTm)
  <use  "data/chapter-1/系统内部逻辑1步.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
+ [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18]
+ [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
+ [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
+ [34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21]
+ [35]
 File: data/chapter-1/Screenshot-from-2017-06-04-22-05-44.png Graphic file (type
  QTm)
 
@@ -2260,43 +2438,43 @@ File: data/chapter-1/Capture2-276x300.png Graphic file (type QTm)
 <use  "data/chapter-1/Capture2-276x300.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
+ [36]
 File: data/chapter-1/006iXRQMzy75IEZuWeoc4&690.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/006iXRQMzy75IEZuWeoc4&690.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
+ [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]
+ [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
+ [39]
 File: data/chapter-1/搜索.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/搜索.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
+ [40]
 File: data/chapter-1/1-1.png Graphic file (type QTm)
 
 <use  "data/chapter-1/1-1.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
+ [41]
 File: data/chapter-1/系统内部逻辑提取.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/系统内部逻辑提取.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
+ [42]
 File: data/chapter-1/搜索结果.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/搜索结果.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
+ [43]
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -2305,7 +2483,7 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 * 
 * Font 'YouYuan' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_YouYuan_int=\count280
+\g__fontspec_family_YouYuan_int=\count284
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -2339,7 +2517,7 @@ t line 299.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30]
+ [44]
 
 LaTeX Font Warning: Font shape `TU/YouYuan(0)/m/sl' undefined
 (Font)              using `TU/YouYuan(0)/m/n' instead on input line 328.
@@ -2347,10 +2525,10 @@ LaTeX Font Warning: Font shape `TU/YouYuan(0)/m/sl' undefined
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
+ [45]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32]
+ [46]
 File: data/chapter-1/系统内部逻辑3.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/系统内部逻辑3.jpg" >
@@ -2361,10 +2539,10 @@ File: data/chapter-1/填充.jpg Graphic file (type QTm)
 <use  "data/chapter-1/填充.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
+ [47]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34]
+ [48]
 File: data/chapter-1/预览2.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/预览2.jpg" >
@@ -2372,26 +2550,26 @@ File: data/chapter-1/预2.jpg Graphic file (type QTm)
  <use  "data/chapter-1/预2.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
+ [49]
 File: data/chapter-1/预览2副本.jpg Graphic file (type QTm)
 
 <use  "data/chapter-1/预览2副本.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36])
+ [50])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
+ [51]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
+ [52]
 \openout2 = `data/chapter-4.aux'.
 
 
 (./data/chapter-4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39
+ [53
 
 
 
@@ -2401,7 +2579,7 @@ File: data/chapter-4/温柔.jpg Graphic file (type QTm)
 <use  "data/chapter-4/温柔.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
+ [54]
 File: data/chapter-4/温柔女性.jpg Graphic file (type QTm)
 
 <use  "data/chapter-4/温柔女性.jpg" >
@@ -2409,13 +2587,13 @@ File: data/chapter-4/温柔女性2.jpg Graphic file (type QTm)
  <use  "data/chapter-4/温柔女性2.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
+ [55]
 File: data/chapter-4/冷静的男性.jpg Graphic file (type QTm)
 
 <use  "data/chapter-4/冷静的男性.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
+ [56]
 File: data/chapter-4/快乐儿童2.jpg Graphic file (type QTm)
 
 <use  "data/chapter-4/快乐儿童2.jpg" >
@@ -2423,16 +2601,16 @@ File: data/chapter-4/快乐儿童3.jpg Graphic file (type QTm)
  <use  "data/chapter-4/快乐儿童3.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43]
+ [57]
 File: data/chapter-4/温柔_IandF.jpg Graphic file (type QTm)
 
 <use  "data/chapter-4/温柔_IandF.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44])
+ [58])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45]
+ [59]
 (./main.bbl
 Underfull \hbox (badness 6978) in paragraph at lines 41--46
 []\TU/TimesNewRoman(0)/m/n/12.045 MANNING C, RAGHAVAN P, SCHÜTZE H. Introductio
@@ -2442,75 +2620,76 @@ n to Information Re-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46
+ [60
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47])
+ [61])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [62]
 \openout2 = `contents/thanks.aux'.
 
 
 (./contents/thanks.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49
+ [63
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50
+ [64
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
+ [65]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52]
+ [66]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53]
+ [67]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
+ [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
+ [69]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56]
+ [70]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57]
+ [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58]
+ [72]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59]
+ [73]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
+ [74]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
+ [75]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
 
 (./main.aux (./data/abstract-zh.aux) (./data/abstract-en.aux)
-(./contents/denotation.aux) (./data/chapter-1.aux) (./data/chapter-2.aux)
-(./data/chapter-3.aux) (./data/chapter-4.aux) (./contents/thanks.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 353.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 353.
+(./contents/denotation.aux) (./data/chapter-1.aux) (./data/chapter-1-1.aux)
+(./data/chapter-1-2.aux) (./data/chapter-2.aux) (./data/chapter-3.aux)
+(./data/chapter-4.aux) (./contents/thanks.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 356.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 356.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2520,17 +2699,24 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 353.
- ) 
-Here is how much of TeX's memory you used:
- 32462 strings out of 493005
- 644202 string characters out of 6134595
- 766882 words of memory out of 5000000
- 35912 multiletter control sequences out of 15000+600000
- 17687 words of font info for 127 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 63i,11n,69p,10411b,2259s stack positions out of 5000i,500n,10000p,200000b,80000s
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 356.
+ )
+(\end occurred inside a group at level 1)
 
-Output written on main.pdf (73 pages).
+### simple group (level 1) entered at line 1061 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 33493 strings out of 493005
+ 662261 string characters out of 6134597
+ 810243 words of memory out of 5000000
+ 36907 multiletter control sequences out of 15000+600000
+ 17711 words of font info for 130 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 63i,19n,69p,10437b,4084s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.pdf (88 pages).
